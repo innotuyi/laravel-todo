@@ -1,1 +1,1 @@
-This is simple todos application designed in laravel
+This is simple todos application implemented using laravel
